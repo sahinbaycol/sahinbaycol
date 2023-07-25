@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 Computer Programing student at Anadolu University.
+- 🎓 Computer Programming student at Anadolu University.
 - 🔭 I’m currently exploring the world of technology and sharpening my skills in programming.
 - 🌱 Passionate about JavaScript, React, and creating animations with advance level css.
 - ⚡ Love to challenge myself with CSS Battles and always eager to learn.
